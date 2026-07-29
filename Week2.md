@@ -9,3 +9,5 @@
 ## HTTP vs HTTPS Fundamentals
 <img src="images/week2.3.png" width="800">
 
+## TLS Handshake & Certificates
+<img src="images/week2.4.png" width="800">
