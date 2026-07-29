@@ -3,4 +3,4 @@
 <img src="images/week2.1.png" width="800">
 
 ## PKI Scenarios & Troubleshooting
-<img src="images/week2.1.png" width="800">
+<img src="images/week2.2.png" width="800">
