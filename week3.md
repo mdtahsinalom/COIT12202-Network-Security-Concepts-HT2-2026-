@@ -2,3 +2,5 @@
 ## Password Strength & Entropy
 <img src="images/week3.1.png" width="800">
 
+## Attacks, Storage & Best Practices
+<img src="images/week3.2.png" width="800">
