@@ -45,5 +45,6 @@
 # WEEK-4: SSH Protocol — Secure Remote Access & Tunnelling
 ##  SSH Foundations
 <img width="940" height="491" alt="image" src="https://github.com/user-attachments/assets/eb0df169-cce9-456a-909c-d12fec5f852e" />
-##  SSH in Practice
+
+## SSH in Practice
 <img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/a534de9e-e15b-4d86-b161-1d0a266c3030" />
