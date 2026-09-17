@@ -10,3 +10,7 @@
 # Firewall Rules — Packet Filtering & Rule Evaluation
 ## Firewall Rule Evaluation
 <img width="1914" height="1009" alt="{3587B14A-DCA4-4502-92DB-436FE15C3E46}" src="https://github.com/user-attachments/assets/a3e4df54-423b-4e5e-919f-3383a7a13f1a" />
+
+# Stateful Firewalls & Zones — Tracking Connections and Segmenting Networks
+## Stateful Firewall Concepts
+<img width="1889" height="931" alt="image" src="https://github.com/user-attachments/assets/a8107096-fc61-4ea2-943d-39de83ba9e56" />
