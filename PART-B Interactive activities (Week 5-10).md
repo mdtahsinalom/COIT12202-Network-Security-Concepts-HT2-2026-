@@ -14,3 +14,7 @@
 # Stateful Firewalls & Zones — Tracking Connections and Segmenting Networks
 ## Stateful Firewall Concepts
 <img width="1889" height="931" alt="image" src="https://github.com/user-attachments/assets/a8107096-fc61-4ea2-943d-39de83ba9e56" />
+
+## Zones & Zone-Based Policies
+<img width="1920" height="1002" alt="{C2172D5A-7F52-4ED1-AA88-3E8EFFF911F1}" src="https://github.com/user-attachments/assets/bf08af82-d601-4a76-9e16-8b18a615811a" />
+
