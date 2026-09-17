@@ -18,3 +18,6 @@
 ## Zones & Zone-Based Policies
 <img width="1920" height="1002" alt="{C2172D5A-7F52-4ED1-AA88-3E8EFFF911F1}" src="https://github.com/user-attachments/assets/bf08af82-d601-4a76-9e16-8b18a615811a" />
 
+# Firewall Rule Reviewer — Post-Change Incident Triage
+## Firewall Rule Reviewer
+<img width="1920" height="1010" alt="{1A43ED27-2834-4B51-8F29-435DD39C2EF9}" src="https://github.com/user-attachments/assets/3b573910-6129-47bb-a632-bb93c2730533" />
