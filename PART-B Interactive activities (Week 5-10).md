@@ -26,3 +26,7 @@
 # VPN Technologies — Securing Data Across Untrusted Networks
 ##  VPN Fundamentals Check
 <img width="1914" height="997" alt="{1061D9F6-ECE9-45CC-97D4-D90A3C0A58F8}" src="https://github.com/user-attachments/assets/7044b080-cde5-4c3a-b956-27f7205ef8a0" />
+
+# VPN Protocols and Security
+<img width="1425" height="602" alt="image" src="https://github.com/user-attachments/assets/1b66c2d8-2dd0-468d-bc55-b8fd600f6c52" />
+
