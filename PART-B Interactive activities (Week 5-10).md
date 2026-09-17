@@ -21,3 +21,8 @@
 # Firewall Rule Reviewer — Post-Change Incident Triage
 ## Firewall Rule Reviewer
 <img width="1920" height="1010" alt="{1A43ED27-2834-4B51-8F29-435DD39C2EF9}" src="https://github.com/user-attachments/assets/3b573910-6129-47bb-a632-bb93c2730533" />
+
+# Week 7 
+# VPN Technologies — Securing Data Across Untrusted Networks
+##  VPN Fundamentals Check
+<img width="1914" height="997" alt="{1061D9F6-ECE9-45CC-97D4-D90A3C0A58F8}" src="https://github.com/user-attachments/assets/7044b080-cde5-4c3a-b956-27f7205ef8a0" />
