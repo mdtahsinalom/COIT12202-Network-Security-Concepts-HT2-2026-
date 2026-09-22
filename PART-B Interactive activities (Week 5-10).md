@@ -76,6 +76,19 @@
 ## Enforcement & Policy Scenarios
 <img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/2060186b-0210-44de-bb27-72b1107ff179" />
 
+# Week 10 
+# Virtualisation & VMs — Hypervisors, Virtual Machines & Network Modes
+## Hypervisors & VM Concepts
+<img width="1919" height="938" alt="image" src="https://github.com/user-attachments/assets/70d82b5d-af33-4bb6-b6e0-6958573fbe78" />
+## Network Modes & Container Concepts
+<img width="1918" height="994" alt="image" src="https://github.com/user-attachments/assets/01eb40ee-ec5e-4ea4-ade5-e0038ae85fb6" />
+# Cloud Security Fundamentals — Protecting Data and Services in the Cloud
+## Cloud Models & Responsibility
+<img width="1913" height="988" alt="image" src="https://github.com/user-attachments/assets/ada00398-5fe7-4023-80bb-e68b868569fb" />
+## Cloud Threats & Security Controls
+<img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/344d8e40-ca49-4135-bd85-1c4dd83b1d96" />
+
+
 
 
 
