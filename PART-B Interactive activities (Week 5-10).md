@@ -38,4 +38,48 @@
 ## IDS Fundamentals Check
 <img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/0e711fa4-612a-4625-9c64-3e1f6977fcd1" />
 
+## IDS Alerts, Rules & Tuning
+<img width="1919" height="1068" alt="image" src="https://github.com/user-attachments/assets/8fe52418-b44a-44a7-af1e-5bdfc9a0affe" />
+
+# Risk Assessment — Identifying, Analysing & Treating Network Risks
+## Identify & Classify Risks
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/36f31927-6b79-4712-a120-aa579ae8ec98" />
+
+## Evaluate & Treat Risks
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/87fba4b0-7e7f-484b-9353-f4a70b79e31c" />
+
+# Week 9
+# Wireless LANs — WiFi Basics, Standards & Security
+## WLAN Basics
+<img width="1919" height="1040" alt="image" src="https://github.com/user-attachments/assets/338d8c44-c00c-4328-b4a9-7eeebb671e8c" />
+
+## WiFi Standards & Frequencies
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/d308d553-1e3b-4806-8913-1079d2d42313" />
+ ## Wireless Security Threats
+ <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/a66f2297-6338-4bdd-9422-8d4bc1504c4f" />
+ ##  WiFi Security Protocols
+ <img width="1919" height="1057" alt="image" src="https://github.com/user-attachments/assets/02c90004-4642-437c-9514-28e5c6e03768" />
+
+ # Wireless Coverage Sketch
+<img width="1895" height="1050" alt="image" src="https://github.com/user-attachments/assets/3b19762d-6c4a-4d74-9b30-850de1a4d705" />
+
+# WPA2 4-way Handshake Walker
+<img width="1887" height="989" alt="image" src="https://github.com/user-attachments/assets/e065f329-7709-454d-8a6f-673580f4073d" />
+
+# Wireless Threat Identifier
+<img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/6de5bffc-bdb7-4053-a6d2-2962d96a155d" />
+
+# Network Access Control — Authentication, Authorisation & Managing Network Access
+## Authentication & AAA Challenge
+<img width="1912" height="992" alt="image" src="https://github.com/user-attachments/assets/07b20fca-60d3-4efb-9964-4ed2facf0dee" />
+
+## Enforcement & Policy Scenarios
+<img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/2060186b-0210-44de-bb27-72b1107ff179" />
+
+
+
+
+
+
+
 
