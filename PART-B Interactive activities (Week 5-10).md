@@ -30,3 +30,12 @@
 # VPN Protocols and Security
 <img width="1425" height="602" alt="image" src="https://github.com/user-attachments/assets/1b66c2d8-2dd0-468d-bc55-b8fd600f6c52" />
 
+# IPsec IKEv2 Phase Walker
+<img width="1904" height="1013" alt="image" src="https://github.com/user-attachments/assets/9251be06-b6f4-4b34-b24f-73ec277da117" />
+
+# Week 8
+# Intrusion Detection Systems — Monitoring & Responding to Network Threats
+## IDS Fundamentals Check
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/0e711fa4-612a-4625-9c64-3e1f6977fcd1" />
+
+
